@@ -1,0 +1,758 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uj8ALlC.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", Fase de Grupos - Jornada 2
+http://miotv.cc:8080/WkkvRk9pTlJrNGhETXYrQ0JOSHhlb3hPSm9OQUtWU2ZjWHd1OTVBK2JvOD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op1
+http://miotv.cc:8080/djJqRUF6Qk5PMWFYOXJRMXJVN0E5TFFwUHd6THJwSC91YTJ4K1JJSXZqaz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op2
+http://miotv.cc:8080/V25WcUZFbWFmWFJvdXM2OENUYkJWcGFyaWNSTjBJdmx1NU0vUHl0N21wcz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 14:00  Alemania vs Costa de Marfil (Group E)  op1
+http://miotv.cc:8080/YjlRQ1JIVUVGNkF0VE1vTm5kdURTRDNCa0h3Z2c3T0hSZW80M2tGRDJHZz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 14:00  Alemania vs Costa de Marfil (Group E)  op2
+http://miotv.cc:8080/c1M3dFU1bWxLdUFJYVhaWUNjTi93dVhTVlBQSmQ4c2g1RkEvbnc1djM2az0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 18:00  Ecuador vs Curazao (Group E)  op1
+http://miotv.cc:8080/KzdxSDBNNWM4QXY2Q0RhQjhsV3k3K1VtMmgzTW5tcU1vYWQwRktYOTBIOD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 18:00  Ecuador vs Curazao (Group E)  op2
+http://miotv.cc:8080/V3M1eXFwYW13YWpDQjVOVkJFSjNGcjFnNThRODJJMHdXS1p3Z3I2WU5zdz0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/laliga.png" group-title="⚽ LA LIGA 📺", LA LIGA OPC 1
+http://miotv.cc:8080/VFFveDNsNWk2Qk5MSXQ2bDdKaFM1d1F5ZzNheC9VaE5kR1NUL0tVcDd4RT0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/laliga.png" group-title="⚽ LA LIGA 📺", LA LIGA OPC 2
+http://miotv.cc:8080/TUloNGhZZ25zQ0UrZDcvQWpTYW1wbi9FbTAyZ2tlMW1sajFNMENPSXJrQT0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/ligadecampeones.png" group-title="⚽ LA LIGA 📺", LIGA DE CAMPEONES OPC 1
+http://miotv.cc:8080/aldHZ0xzMjh6eDZiTXE4c3I2NGZWUUt2Z0h3Um9FYi9SWXIyTXgrb2tIWT0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/M.%20Deportes%20FHD.png" group-title="⚽ LA LIGA 📺", LIGA DE CAMPEONES OPC 2
+http://miotv.cc:8080/bk9qT0lPNnhXamxFbWlJVy96cEpXYmFEL1l6SUdReW9VSFhlaStTNTRCcz0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/M.%20Deportes%20FHD.png" group-title="⚽ LA LIGA 📺", MOVISTAR DEPORTES OPC 2
+http://miotv.cc:8080/VVVkei80ZDFBemYyQjhvL2NYUEFuYXcwUDRLdTZMU2dPT2svRndpVVhzST0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/GOLPLAY.png" group-title="⚽ LA LIGA 📺", GOL PLAY
+http://miotv.cc:8080/RHBlMkhxdzBFS1pheEdLSmpLdjhua1owZG9mYVllWDVUTFRmWnQyRjVMcz0
+
+#EXTINF:-1 tvg-logo="http://51.159.211.207:25461/logos/deportesespana/LigaHypermotion.png" group-title="⚽ LA LIGA 📺", LIGA HYPERMOTION
+http://miotv.cc:8080/MWpCNndHaWZxMm5CUXBGdFJ5bktQa3pnQ2k1L1Z5QTVPMDUvT05GMkdOST0
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="✅ LIGA MX", MX | T_UDN MX ᴴᴰ
+http://miotv.cc:8080/NHF5VXRmOG9IK21jTXRpd2VWRG52dnIyVGZubWMxemk4LzI0RGdINkFaND0
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="✅ LIGA MX", MX | FOX SPORTS PREMIUM ᴴᴰ
+http://miotv.cc:8080/Mm8zYmRFeWlsOVorcG9rVnE3UmdOMjl5U2xOcXRTalU0d1lhelA3T0VvND0
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="✅ LIGA MX", MX | FOX SPORTS MX ᴴᴰ
+http://miotv.cc:8080/TWtrQjJrZzNlMzBLNko5TTNCZThJbTIwMytqM0Z2S0RvQ1dVNlNubThXaz0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", WWE Network
+http://miotv.cc:8080/eW4yNmRIc0I3czB1OVo2Y3lyc3V1MUZEb3pGbHVIRkoxOWQrNjBrb21GWT0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", WWE Channel
+http://miotv.cc:8080/ejlOVnJtcjR5NUxHZU9yYTRSeUVsQndLK1VjcVdraVVKUUZvZEhqbDRubz0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ge77Z8_bMAAQofn?format=jpg&name=large" group-title="⚽ | DEPORTES PREMIUM HD - SD", WWE RAW (SOLO EVENTOS)
+http://miotv.cc:8080/eGc2TituMnI4dFR0QWpYcnFLK3c1RSs2TjlCUStnWExWYmROczRBbVhpbz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/BEINSPORTS.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", BEIN SPORTS Ñ HD
+http://miotv.cc:8080/OXNpaWtzWVA5UTY5N3FZWitoYmFXemhOQTlaQXh0NWNwNmpRZVVYNVRvMD0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/BEINSPORTS.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", BEIN SPORTS  Ñ HD
+http://miotv.cc:8080/bHFoNzlhdXUxMW9vbXFtZ3ZPWXkzRG5mWERxS0U4d1k4UktWUDJtbEN2ND0
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/EF52gRF" group-title="⚽ | DEPORTES PREMIUM HD - SD", EUROSPORT 1 HD
+http://miotv.cc:8080/MXhXRFZSR1lQTVp2Q1JkNkN6WkxDYldYUVRHYzBNa0NHT3J2S2JFUDNlRT0
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", EUROSPORT 2 HD
+http://miotv.cc:8080/YXMrY0V6cm4wV0FmdHJVMy9wWFpTNlczTmQrNTdGOHlwU0d5aVlyMFc3dz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS
+http://miotv.cc:8080/NUlsTUpvclhyRGY2dXlBcWEvL0tLQjJIV3ZMdjFDT2Z4WUlLdTFtcUVUOD0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS2.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS 2
+http://miotv.cc:8080/R2FsRzArUFRocHZiek4wajJoWDlaanJKTlZ6bUtFNW0vUnkySUpGYWhROD0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS 3
+http://miotv.cc:8080/Z21PcTFBS25oUEpTaTkrdXBqakxsbFZzbmZyUllpTitBaG1VWEdSMVc4UT0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/GOLFCHANNEL.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", GOLF CHANNEL
+http://miotv.cc:8080/Um9NRUZaZk9nM2FhSlIzUUtrVW5selVGcEVoSHBTcUFkMlhad1JmZ0FFcz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", TNT SPORTS
+http://miotv.cc:8080/aEVEeDVwRjlRTTFjQVlLeVRjNms3aWF1b1Byc1E3c0FKcDRZS1orSHdoMD0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TVCDEPORTES.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", TVC DEPORTES HD
+http://miotv.cc:8080/VDJmalU2T3hHMXhqVzlZWHljNStJZ0dPS3pxdVlrUW03bDU2aUFYRTVXQT0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="⚽ | DEPORTES PREMIUM HD - SD", TYC SPORTS HD
+http://miotv.cc:8080/TTNKM1FPdlg1dE9xRit6MUFrOGdsM00wOUo1QlNsRXFJZTJYNlB0bld1cz0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS
+http://miotv.cc:8080/VEVFKzRla1VwM2dsRjBNWEZJVGMzSVhiQXZMUXVURGxmNURuTk1OMmU3ST0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS + HD
+http://miotv.cc:8080/eHJjT1o2ekgxZ3dzdTVabCtuREo2YzQrZ0hmTVpVeGx4aG11bHNWeUZqVT0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/DSPORTSFIGHT.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS FIGHT
+http://miotv.cc:8080/YWpmVExoMUJVZVhpU1M1SklFaWVZZndRbjJhY0E5ZDdXazZtczR2ZnhSbz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/VIX.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", VIX HD
+http://miotv.cc:8080/T3RzSGN0YkJlTGpKdFVZZE12SnNRS2VNaFlKNDF0OVZwTGk0OXRuUFI3ST0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS
+http://miotv.cc:8080/SUNlL2g4bm5DeDNKbmVDNDdyWnRRVVR1QWNhUVZyNVFTTVRnZHkxTTZDbz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS2.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS 2
+http://miotv.cc:8080/ZW1yYm5vUzhrNWQ1SE9uYnBxZFQranNtUER3UGVsa2lHSkZ4OURpb2Z2dz0
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="⚽ | DEPORTES PREMIUM HD - SD", FOX SPORTS 3
+http://miotv.cc:8080/L2FqZDA5eU9pUDd0dVI1dmVTLzVvZzJKOCtwZ25zYnMyMU91SWw2K3B4Yz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", CCTV-16
+http://miotv.cc:8080/aGJYWm4xS0FpZFRmUkx3a2lNVXRCSU5hQ3F6YnpCMGNBTDkyQ1lDMmN4MD0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", ČT Sport (720p)
+http://miotv.cc:8080/STQ2ajJNU3A0dWUxdFQvU215RjZUVnFCNWJYU1ZjRUF0UmRoVDd6ekwrQT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", FB TV
+http://miotv.cc:8080/TzkyWnNraHlVNnZVa29hUG41dStDbCtrN1pxRE5ZSUNudWVUakpmbmNmRT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Gaora Sports (544p)
+http://miotv.cc:8080/YjFpTnNRNEROUkg3TGVOUHN3T245WTRBYjRYTmV0MzJySXdadTlyRHRIYz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Golf Network (544p)
+http://miotv.cc:8080/bjJSL2pLSEhHWVA5d3o5aythSTZhMG9LUWRyd2tWNm81anMyS0FvZHZRbz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", J Sports 1 (544p)
+http://miotv.cc:8080/Y1ZmL0I1VzFOTXc0Z0UvalNRWHRHVXVGOUNDbHQraitJOXdCWEpYSnZqZz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", J Sports 2 (544p)
+http://miotv.cc:8080/dldtdVJsT09iMTd1R29xZXRTZ05UYWxvaUNxdEhNcmRZUENiQVd6dkw4QT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", J Sports 3 (544p)
+http://miotv.cc:8080/WDVISUZCUVltejFZZTNZWnFqenZBRCtDYnh6YnBkdkZxeEdEeGZqaFBzdz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", J Sports 4 (544p)
+http://miotv.cc:8080/VWw5MWhiby9OcFdmdUt4TTFkRGIrcm82eVUxdCtjNXBBNjMwRzRSb0h0TT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Jordan Sport (1080p)
+http://miotv.cc:8080/WG5Ld25EUXhuY0g5eERUQnptOUNRZFE4ZHFTb1lsTDFSRE53SXVQZUswbz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", KHL (720p)
+http://miotv.cc:8080/QjlVZHN3cHlBOCthVnlod2RORTVVN0p1TzRpYU5JbVN4ZW9WV1FWREtFdz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", KHL Prime (720p)
+http://miotv.cc:8080/aDRHRUZLaGJXeDhIblp0cG9FMHN2Mm9UZWxlVlMrTTlWOXBvZzRacmhLdz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Match! Strana (720p)
+http://miotv.cc:8080/ZlNUN3UrYkdjcE1DejFmK2Njelp0enBDZnRLQWs3ZFozWkw1TW5YaUk3az0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", MMA-TV (576p)
+http://miotv.cc:8080/elpKS3JjTzExTnk1MTZOUmVldGFQK1lrb25YY3NPZE0rV2hjNmVqcFFKRT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7237pCC.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Nittele G Plus (544p)
+http://miotv.cc:8080/S0ZUOHdtVGF4Wm9wcHl4ZG5ha0ZhTVJDOWM1TzhCWEVqc1pLd0xEQlowcz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Ovacion TV (720p) [Not 24/7]
+http://miotv.cc:8080/cE9Lc2F0TDlod01FSEpiWU9PbThIcnRSYkJWS01ibkttMFliZzNMWXVQVT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Polsat Sport Premium 2 (1080p)
+http://miotv.cc:8080/ek02aXNMS21EQllmYW5JZTRzZjVCNXV3d1Vzc2dtT3JSQitJUUlDdExIWT0
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Star Sports 1 Hindi (576p)
+http://miotv.cc:8080/YkFHN29PTWZhVldqclcxcXNVWjY5NHg3YjJBSzNiUExxL01Yczg1MHg4Yz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Star Sports 2 Hindi HD (1080p)
+http://miotv.cc:8080/S3dGQVM4LzN2RTE3VVBvaE9SWkpYWFltSnM5cjdnZHAyNkNUYWtwd3pxcz0
+
+#EXTINF:-1 tvg-logo="https://talenttv.lk/logo-footer.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Talent TV (720p)
+http://miotv.cc:8080/S001QWNqWVJBS3cxWjlRS2x2QlQrNzdOUU9idkt2ZGJCbmh5MHhaRzI0az0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Tigo Sports+
+http://miotv.cc:8080/SmpGNS9GT05zTWpuTjNCZG1jVGJzQjVPbll0VWpZQ1VHSi9kRmErWFRqMD0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", TyC Sports USA
+http://miotv.cc:8080/aXdldlBCUFBCOEJPYTV6TDc1QVlCNXFYRVNkczN6ejZMWWVueW9wVks1OD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Бокс ТВ (720p)
+http://miotv.cc:8080/L2IzNDFGclMvZzlDWlhZbUtIMEZ4OHE1SGVCZDVrbEdvS3ljbEFEeTJlYz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", МАТЧ! Арена (720p)
+http://miotv.cc:8080/QmF5eGVCWkpkV2FlcjRmSXFneU1RZ3V4KzVSM3pmSEV1dmQxKzl3VmlHMD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", МАТЧ! Боец (576p)
+http://miotv.cc:8080/R0trY3lObXZoYnhBUVYrbEtXd3NFVzRyMHpibVhzL21Rb2hRUkdrdW9xOD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", МАТЧ! Игра (720p)
+http://miotv.cc:8080/dGxYYkRNTTNGaXc2cW9hWE1lYzJ0RlpFR3E4RjRVSnc2ZWlsVk5oWEwyZz0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJK7mOW.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Русский Экстрим (576p)
+http://miotv.cc:8080/Nm56WURVWmdLWmNxcVRPSlE2SjZpRVdsVW1ORTIxWXY3ZXQ3d1ZNbmkwST0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="🏆 | DEPORTES ALTERNATIVOS⭐", Футбол (720p)
+http://miotv.cc:8080/MTh6anU2OENCaEhETWQyYTdEd3MrSXFqNGhKSDdVUGpJR1N0WXE0bzhvMD0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", TÑT $P⚽RTS SD
+http://miotv.cc:8080/aks4QWFRc29lcEg2bFloc1UyclZwbHhGa2RsZFlzWHBWZGNWWUw0Z1lKaz0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", TYC SP⚽RTS HD
+http://miotv.cc:8080/VjdqamMrQmpNMnE5MjFNUStMNVA2MUVYRi9qdWxUNFdmUDlZUHM0a1Vsaz0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", TYC SP⚽RTS SD
+http://miotv.cc:8080/Yzc0azZzcVNUY09vQytSdTdRcU5MazRldENndzhIYVBUVjRyM0ZwNGQrTT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", E$PN PREMIUM HD.
+http://miotv.cc:8080/Zmc3bGcyenRONjdRdGd5WWxIS0tKVXFhYy9PaDI5ak81a3cxVk0ySjN3dz0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", ESPN
+http://miotv.cc:8080/TFFWNFIwMkl4QjhTampwSWJKMXZzWUx1K3l3SWlFWGM4RjlvbHdGdGw2QT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", ESPN 2
+http://miotv.cc:8080/VGtYQ09naEVPZmU1dVg5WlRKM1RLU3FBL05tRllUNnhBbUJ0enlJeWFoYz0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", ESPN 3
+http://miotv.cc:8080/RHFvazFkN2ZiZnM2TWxnR0lFRWMvZGpRWlFqR1RMdUFtV1R0OGx4bGdYWT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X $P0RTS 1 HD
+http://miotv.cc:8080/VUVRV1NZbXByN2o3MXNpeFh2Umx0TXZwbXdOQTVEelIrNE05V3NCYVRpMD0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X $P0RTS 1 SD
+http://miotv.cc:8080/ajhremdzcHhwVUVjWWpiYWZKbThMdmk0cjdTdnp5OVMxMVpVZGNtVVplTT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X $PORTS 2 HD
+http://miotv.cc:8080/UGJTcUVObGJ6bHlBQmNFaWk0ZXdKWDNxL25yb2cwTzBLL1Z2bTNvZURxMD0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X  $P0RTS 3 HD
+http://miotv.cc:8080/aDlRdnl4ZHcvd1YxNms4RVJUYVpPS25hN2lvS3RDclhwL0ZNUDcybVVXbz0
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", Entel TV (1080p)
+http://miotv.cc:8080/cXpuOUFxR1dNMUZ5VGZEMjVOVVpnNGRnMHNxNmhTOEh2L2UwK21qUS9ldz0
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", Entel TV (720p)
+http://miotv.cc:8080/ZmNJbm1LVVpRMnlldkJXMXlDbVEzcExkYm9PYlQ2ejVQRkpUYnl2U2ZoUT0
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", Entel TV (480p)
+http://miotv.cc:8080/WndmNmdMUE1uc3cxRU01d1RyelZKZENkQzNwL083S200ZWJPbGxVbVI0cz0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", Futbol Canal - op2
+http://miotv.cc:8080/TjNQQTRrbExHLzJRczdtbmF1VmRLbmxBT2tEWHE0QytCSmRYKzdFVDNDdz0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MtvuL-vlyRg/hqdefault.jpg" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", Tigo Sports 1 HD
+http://miotv.cc:8080/bG42c1h2OGVPamVmZ2RHOWpJYXMzMjR1ZUNvUTY5cXM0VVBkd1ZLYkpuWT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ | DEPORTES BOLIVIA 🇧🇴", EVENTOS BOLIVIA
+http://miotv.cc:8080/Q0NFbGFjT2JFcjFxUDNvSUNOQjJZVFVsa05LdzZrdmlSQ0w2UjJhVTU5WT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ PREMIUM  FHD 1
+http://miotv.cc:8080/RGRiYlErN04rOUsyaWxLRmpKMzJ6UT09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ PREMIUM FHD 2
+http://miotv.cc:8080/UGVRNzJnNXltM1N2SlYzN2FkYkc3Zz09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ PREMIUM FHD 3
+http://miotv.cc:8080/NnZVRWtEU1VIT0Mvb21kRzBVRW80dz09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ SPORTS PREM HD2
+http://miotv.cc:8080/NzBPL3QzUTFTQTJwU2MvWFUrdDNrUT09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ MAX 2
+http://miotv.cc:8080/NnlJbm11Q3FnM3psV1VhcFF6Q0pKQT09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ PREMIUM SD 3
+http://miotv.cc:8080/TGQ1NlFDTVpna2xiZzBtN0ZOQUVJZz09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ BASiCO ⚽ 1
+http://miotv.cc:8080/dmtBaDJoYVRoaEFZa1o0MHNUaFJsdz09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ ▶️ TNT/ BASICO  ⚽ 2
+http://miotv.cc:8080/V1pTSjV1QUFEa0Nva2FlT29YcVBlSFZ0cWo4RmhMTXRrL0Z5cWc4OFM5ND0
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CDO
+http://miotv.cc:8080/aUJzM296eUFaeWJqVElFU2hyclkvNzlMQ2pON0dLNVB5Z2tKRjI4Q1FGZz0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DeDECJkXUAE7xxL.jpg" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ CDO BASICO
+http://miotv.cc:8080/QzBtRG1yS3ZHenJOV1Y5R1Yva3A5VTgwdVUyS25pdzFQNk5ZY2VnMXArcz0
+
+#EXTINF:-1 tvg-logo="https://assets.nunchee.com/out/65302e3626d20e001c7afa91/original/backdrop/75.jpeg" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽ CDO 2
+http://miotv.cc:8080/SmlTMWNld0xhdFZrb2crZkE4MDlCdmVIOGhDdW96ZzVjUDljcktYTEZwOD0
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-sports-3-hd_m.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CL | FOX SPORTS 3
+http://miotv.cc:8080/RVhLblRtQ01XZWRwbTN4QXk3QkFpOHJFUzRIVXcyektIeVpsNVpVOTMxQT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKHsSBX/kmc-20240503-052233.jpg" group-title="⚽ | DEPORTE CHILE 🇨🇱", CL | FOX SPORT CHILE
+http://miotv.cc:8080/SVd0TFFKdkcvNi9DQXJxNlQ2K3I5YUxJTW4xcEhTei83cnNBVmhQMVhpcz0
+
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CL | ESPN.
+http://miotv.cc:8080/ZGplSm9nOERVcWNHbzd3YVVaL1lwS3l6UlA5MjNxVzBQSW9zKy8zendEND0
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CL | ESPN 2
+http://miotv.cc:8080/UjNQeUhkSGdUV3hwQ2hVeEJkZmV4SXppdEJBYmFMT0JiZXhTUnkvZTlzbz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyiG5jIouWAFlfJplkYFCUJg50BCRaRTjXgw3Zt2FQ6mwOof6S60K930YOCG76GI_W4MKDoSgrVP3rFMXgmrmKY3QnI6cfrXqFGjKNZQ4OLxf_0h7aIY00eYWDNd35up6ihZGiUpjUz5SpIzb006S3OLoUWcuaWvBxVhob87OdD8-X5Qsv9_S-fGhO/s1600/espn3.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CL | ESPN 3
+http://miotv.cc:8080/K21vM1htZVZ1UGNiU2EwS3BuS1M2bmIyUlN3Zzg1TnRnQm15c3hJblp5bz0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="⚽ | DEPORTE CHILE 🇨🇱", ESPN PREMIUM
+http://miotv.cc:8080/Y0xTS1FNOGVKSEJCSjZqRXQvck5HUndKaC94ekZYSWV0YW5hQzMvUlFzUT0
+
+#EXTINF:-1 tvg-logo="http://cpi4u.com:45862/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", CHI | TELETRACK SD
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20220119/imag/foto_0000004120220119163939_700x393-HERO-MOBILE.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", ⚽EVENTOS 3⚽ TICKET
+http://miotv.cc:8080/eFlWK0hpYnpFT1dJR1B5NW4yYnlISk0yMHhCQ2dISStCR3JadEJNSmJ6RT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wV0wTLD/file_00000000722071f5b30736ffa1f810a4.png" group-title="⚽ DEPORTES COLOMBIA", CO | ESPN
+http://miotv.cc:8080/ZFMxdWFkSStWbENjdlNVWFlhRzQxY0traldVR0tWUHc5eVpieGs4dXRncz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT Opc 1
+http://miotv.cc:8080/OEk4eTNKMTFwSnBOU25sVzc0b0tNK3BLRHFKZThrRjBDZUR4d1lZR0lRUT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT Opc 2
+http://miotv.cc:8080/UU9JelJPRGhDL1BBaXk5dVJGczY5aHQwT3pTMFQwVzVCblVhdXV4V0dqMD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT Opc 3
+http://miotv.cc:8080/K0hWNmhBeGtKaVFQa2lOQ0RqRlNYaEtwclN2WU5BSXIzYWtqOTVFbzFjOD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT Opc 4
+http://miotv.cc:8080/b3ZSY09CWDNmajN1bUNKS2NjcXEvcWt3QnBGaFpvMlBWVTNYWExVQVlKZz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT Opc 5
+http://miotv.cc:8080/bEhqRXVxU1VEd251ODB6eGJpcVhiWENHeTNZRGxqSHJGbER2K21HbWRnQT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT + Opc 1
+http://miotv.cc:8080/eUdHRkdsaGk5RllXL09BTnlObDBiZXlKK3dDSFRZbEw5VUVOZms2TjQxVT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT + Opc 2
+http://miotv.cc:8080/MUJpWW4yMlUwSXdLTGJsaTZkOExVN0VqUHYvKytMSVdEcFAwZ0hoK2RTUT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT + Opc 3
+http://miotv.cc:8080/M1lBMUVmK2NkN2x3SCt4citOTzc1K3FCdC9PblhWeGZVSktHbXhWcmlvaz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT + Opc 4
+http://miotv.cc:8080/MEVISUQ2RGdmWTd5M3JWVnBtVWRCWFYvY2ZiWTBzNWtPbXBVOEdXM0FGaz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="⚽ DEPORTES COLOMBIA", WIN SPORT + Opc 5
+http://miotv.cc:8080/QXpoTUdsR1FaeVlsVVF4RGptcEsyNS8yTHZMVFVZczBrMUtRSkM4ejVKYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZFkLCwJ/file-00000000d1c8720ebfe4d41f30b3ccc3.png" group-title="⚽ DEPORTES COLOMBIA", CO |  EVENTOS COLOMBIA OPC 1
+http://miotv.cc:8080/bExOWjJDRzVZZU1URVg5aWpQblpUb1ZWNkVlRzRoemxPbXUvOTJocHRYUT0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", EVENTOS COSTA RICA
+http://miotv.cc:8080/R3NrWjd1NkdxV3ZPUVNwZG5vR3lMZGZZUnYzL294RG95OUVyYjhmMm5rWT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPrp0j/Cara-tulas-COSTA-RICA-td-2.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | TD+2 HD⭐
+http://miotv.cc:8080/R1BXeDN2bWRmc0h2a3M1RkFhTlhRZU1JUnVpa2tITWtPN01MWkl5ZjAwUT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPrp0j/Cara-tulas-COSTA-RICA-td-2.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR: TD+ 2
+http://miotv.cc:8080/UTNKeWNuNWJQL1YxdmdmcFc4UllBdWhseFkvYjZLckJ3WmVEZnBZYWVUdz0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjJ6t7F/Cara-tulas-COSTA-RICA-td-1.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | TD+ SD ⭐
+http://miotv.cc:8080/Rk5KMFRiRFJiWWJ5WU1xNUprSmRDN2FHdkQ3cS9QUGdaV1cyTVEvVVFwQT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjJ6t7F/Cara-tulas-COSTA-RICA-td-1.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR: TD+ 1
+http://miotv.cc:8080/SDdJRHZqYkk1cHkyVk1IUWt0TkFYaDFXVEJvM21jUTRXdmVGeXFMeEpXMD0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgRxuFN.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | TIGO + FOX HD ⭐
+http://miotv.cc:8080/clo0WEtTYXJiemk5bENUVkZad0t2b0p3TE9aU1oyRXYvcEtmSHFGbWJLUT0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgRxuFN.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | TIGO + FOX SD ⭐
+http://miotv.cc:8080/VFZmaTk0UjhLUVlwbXo3am5vL2dBczJvbTQxOTFUemFJNDh1a0hmaWZMcz0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtstmpw/Cara-tulas-COSTA-RICA-FUTV.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | FUTV (c) HD
+http://miotv.cc:8080/d0dxZGM2MU5HcTlOU2lLSmtZUnN1cTdrQktBSC9ySjg0NDVtYytCbmNGOD0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtstmpw/Cara-tulas-COSTA-RICA-FUTV.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | FUTV OPC # 2
+http://miotv.cc:8080/aXhkTklFcWJ1NEVqbkxTK01FR09ST21TcVdCQm9sUnh0bGN2SXMyRVZTND0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtstmpw/Cara-tulas-COSTA-RICA-FUTV.png" group-title="⚽ DEPORTE COSTA Rica  🇨🇷", CR | FUTV OPC # 3
+http://miotv.cc:8080/KzZScmsxNzBHM0NmbGZGQU1iVVl4eVRwNWsyd1dLRjZ5bURqYW5kMUUyQT0
+
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/app/online/BOTON-ECDF-Y-ECDF-2.png" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", ⚽ ECDF 2 ✅ SD
+http://miotv.cc:8080/a2Z5WEREU2pUejdGWmhzRHV4K0MxOHV6dWFFOXRRT0lXdCthM00vb3VmOD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpJp0VBG/DTV-HD.png" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", EC l D$PORTS EC HD
+http://miotv.cc:8080/b1o1VWJmcWh4dUlkRGFDTjFwclNoUnlPMW1Ub1hnK21LNzdxVnV6MWhYUT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcKTJ717/DTV-SD.png" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", EC l D$PORTS EC SD
+http://miotv.cc:8080/bWZWRUNCREFmR0xmc2w2NHVaOXEvK1V6UlBaUUs2T29iVWQyMW5kUFVCcz0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MwQxDL/Screenshot-20241209-184157-com-lemon-lvoverseas-Edit-Activity.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", EC | ECDF opc2
+http://miotv.cc:8080/Ukl2QW9RL0Vnby9VdjRVcHlGYmtVQT09
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MwQxDL/Screenshot-20241209-184157-com-lemon-lvoverseas-Edit-Activity.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", EC | ECDF opc3
+http://miotv.cc:8080/ZElWRHNzS1ZBdGx5M2VOOGRKMjJ1QT09
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", 01 | za⚽pping opc1
+http://miotv.cc:8080/N3Zrc0wrZWRyaHoyK2tnWUF3UGdzd2hMdk03OWx2a01FOG05M3c4Um1OST0
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", 02 | za⚽pping opc2
+http://miotv.cc:8080/OWRNdE81aUgwWDlQeVV3QUtEMXFVQzd3Mm5GdnFmWWxsS0dwRm00cEErST0
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", 03 | za⚽pping opc3
+http://miotv.cc:8080/OERVSVdPeGd6RkF4SUhYZjhWNFgxUjlSbWN0dTBaeHJwU1VscjI3MVp3ST0
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="⚽ | DEPORTE ECUADOR 🇪🇨", 04 | za⚽pping opc4
+http://miotv.cc:8080/V3VHN0taUWgzejhSLzd3L091ZXRiaFkrTWZhWjk4K2JNOGk0MDZPQ1p5Yz0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxX6BbM7roVB10hLIdl_W2dw7vccYgD-IO_w&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE|⭐⭐EVENTOS EXCLUSIVOS HD
+http://miotv.cc:8080/TGdJYkdmRnd1MUkyZW5vVktKcUNPeDlhMTEyc0p6cmVjV3p0cUFGTlByUT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-EYJF-oIs-2eM6TOPzMVyv6Zsch3w5BsSw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE | Liga 1 M4X⚽ SD
+http://miotv.cc:8080/bGdmZlZWSTVkbnFpT3J4REV6RFBFdG5pZnpjLzU1bkdkVEZPeVYwTWdMRT0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE | L1G4 1⚽ ( PERU ) SD
+http://miotv.cc:8080/clJOK2JuN1FXemJ6allpdzM3eWtWSGF6T011bGN4LzJVcGNMakx2V1BnMD0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="⚽ | LIGA Peruana 🇵🇪", GOL PERU HD
+http://miotv.cc:8080/OHZHbm03aVplRFM0QXU3VWQwMXFGbFl4b1lNQ0tRRkMweG5vbnNNQzVROD0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="⚽ | LIGA Peruana 🇵🇪", PE | ESPN 1HD
+http://miotv.cc:8080/SXpERkUxY1ExTEhLSituS1E1ZXBPdlRnRnQrWUF5Vk9zYloxTE1CdkJUTT0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7d/e8/8b/7de88b9792e97757a06ae39cdf9b2678.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE | ESPN 1 SD
+http://miotv.cc:8080/bDlKZU1FREhDaGtVUlVCMzBTV2k4MGNENnJzVFV5MmtYa1lRSElpVDBhND0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 2 HD
+http://miotv.cc:8080/MnFEbFlqZGNhLzdXQS9UMFRkaHMyUlZFS0Y4NSsvOEYrMkxQOWxJTnEyVT0
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 2 SD
+http://miotv.cc:8080/RUpRQ01XR0dFbnBPZmw5ZVlSLzBIelYxQmRXMGhzWkhyZHdQRGswbzFVaz0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 3 HD
+http://miotv.cc:8080/TlZ4ZWFzRHZNVVB3b1FqUk1PQ0diQ2dUNXI1NFIxZDJ6aUJTUStHajFORT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxq7aeQROpQqS5JPalgP-cv584jWLi_tYBA&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 3 SD
+http://miotv.cc:8080/TmI1NEFBNEl0MVpqN0ZUZERRU1BIaVRTOG1CWVVLaVBWOVIycDBrZUY4ST0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZfx6VvH5StHtDrMuZ3wocAJdT_ZTYsVLMAw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| ESPN 4 HD
+http://miotv.cc:8080/SzY0Sk9mQTFxUThwV0lENXA0d0tpMW9pQVp4SWNtL1JtRnlnWUh5RFBnUT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZfx6VvH5StHtDrMuZ3wocAJdT_ZTYsVLMAw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| ESPN 4 SD
+http://miotv.cc:8080/dUlrMkp2N2laUS9CMFppYWxURnVTTjJ4dlVkVkdaWEJJT2RYelJxVjFDVT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2SfWvS72hAWhFGWsfZ7CslVNhrOj9MIppw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| ESPN 5 HD
+http://miotv.cc:8080/Yy80VGZkVTE4R1c0QS84STRTN2xuck42YWp4MVNFaEhpSFZJYUYwZUsvdz0
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="⚽ | LIGA Peruana 🇵🇪", PE| ESPN 5 SD
+http://miotv.cc:8080/VTNncEFGaGxSUDZyN08zR3Fyb3dscjFMa3l3cUpCaE5GOEpYZFRJTzE3TT0
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 6 HD
+http://miotv.cc:8080/aHNjMm9sZnVCQkNYc1VjbWFxUWJDSkdZU3dWYjBrTkI4ZmM4d1dkZFVyWT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VUhFxO7U4xEE3vn5OirOrhjFJtaS8nN_9g&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 6 SD
+http://miotv.cc:8080/MVRwd1pRME5XeFZCMXVUdjBPOGpTT3Y3dS9STHJKR3NqU29VZzdPRFVWVT0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f4/60/fb/f460fbd3bf84dffee99ce46a6ad489c4.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 7 HD
+http://miotv.cc:8080/TFlsRHc2dGNGdTNhK0ttYjRqQXluY2lsVjZYUk1iSGlXbDhxaTJnOHNmcz0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f4/60/fb/f460fbd3bf84dffee99ce46a6ad489c4.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE| E$PN 7 SD
+http://miotv.cc:8080/NHI0VkFaNU52NEVTbWFaRVRjZkkzV21UZ3FVanAyNXhJNzZYblhlcGh5TT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9hBoU_ujZmqB-kesrVZSEAX3BUljN5LQDw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS 1 HD
+http://miotv.cc:8080/QnVvSzArc2ZWMzY5TUJCRlppdUZhdUJJd3kvL0liTWVZYlRHbHJiaFFuYz0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9hBoU_ujZmqB-kesrVZSEAX3BUljN5LQDw&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS 1 SD
+http://miotv.cc:8080/QzcwSkl5cm1ZbXVvTkExMGpvWnZqZFpZakUySTh0am5nRkZxUEIyRkY1cz0
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1750835415343" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS 2 HD
+http://miotv.cc:8080/RG9xWGpIV1hRcVJtZVBkakY3aW5QclZOd2FrNkFYN2FxSm51cG51TDRTUT0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FhSdYd1WAAE8b5R.jpg" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS 2 SD
+http://miotv.cc:8080/YndZalFXSWdoQUtHU1JYNmdTZ1lhY28ra0p4bVVvMDVTd1kzN3l2bXdQZz0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_t20GrHwIlc7WMA3ScT0PHU0GnAmjmWmTYQ&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS + HD
+http://miotv.cc:8080/S2VOemtpNVdjU1BwWGdMZnMvQ0NaenEzNHJqdDB4R0g5L3BkMXZLaUV4QT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqs4dD4rw7tsxpxfsqYuAQkdR75YxKbp2NCg&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| D$PORTS + SD
+http://miotv.cc:8080/aCtHclo1eXVSTHNFd29KUjFUeURJUkZtSWxrazByWEZ3MFZnZVpDSzg1VT0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQioy71Sz53TvGW1D6ucXyJJd1Wr22pZ3b29A&s" group-title="⚽ | LIGA Peruana 🇵🇪", PE| OVASION ⚽ TV HD
+http://miotv.cc:8080/amV4UEJGRzdyLzBIRmZ1TG9LK0tBbXJNT0dKYzNicHZDZEt6cCtXTnZWVT0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/f6597e173b9aa7128ddcdccad85b6b02bcc471de/jungle-picon-Movistar-Transparente/picon/1_0_19_750A_420_1_C00000_0_0_0.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", #VAMOS
+http://miotv.cc:8080/SkVQaHZvVGN6bHVuVFViR0lna1BxSjhEazJVYnRnNDFrZFVTYWFXdDRQbz0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/f6597e173b9aa7128ddcdccad85b6b02bcc471de/jungle-picon-Movistar-Transparente/picon/1_0_19_7828_428_1_C00000_0_0_0.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", M. DEPORTES FHD (B)
+http://miotv.cc:8080/UHVZOGgyY2w5UXlhZnBwWWVaeFAzRjZqRWNRa1F6Z2lTZ1o2eGNCanEwMD0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/f6597e173b9aa7128ddcdccad85b6b02bcc471de/jungle-picon-Movistar-Transparente/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", LIGA BAR
+http://miotv.cc:8080/TXBwM0VnYnRYNkoxaHliaU5LWHhFZUdFRC96dTRmd1VHWDduYmdnVXNVOD0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/f6597e173b9aa7128ddcdccad85b6b02bcc471de/jungle-picon-Movistar-Transparente/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", M. GOL TV
+http://miotv.cc:8080/NGRDaEJXY0V3cmd0dGkxQzdGVUx3MzFtbnRxdVArQjZEOGwwaklCZ3RUST0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/f6597e173b9aa7128ddcdccad85b6b02bcc471de/jungle-picon-Movistar-Transparente/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", M. GOLF  (B)
+http://miotv.cc:8080/YnVDN3hFSWFSVjJOK2NNc0dYaWZSNS9iUjM1STVuR3g3VGxaa3JxUEpKYz0
+
+#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", EUROSPORT 1 FHD
+http://miotv.cc:8080/ZUVLQ3Nka2tPcFh3WjdWMlg0WkJEQ3hsZGN5RllvbzFtbDlPZkZzMm9haz0
+
+#EXTINF:-1 tvg-logo="https://imagenes.lainformacion.com/files/image_656_370/uploads/imagenes/2017/09/13/59b8694748354.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", RE(AL) MA(DRID) TV FHD
+http://miotv.cc:8080/MEU0NWlwREhYOHl3TzErNVBNTEpSQVdYT21JTXVtSzNPN3I4M1pSd2lWUT0
+
+#EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/gol-television-logo-vector.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", GOL Play FHD
+http://miotv.cc:8080/a3U4VEM0ekpoQTlJbFNUR0JZa0hIZkpzSGFYN2l5Q0N6ZU1yaC9UMy94az0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95z4YA4.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", EUROSPORT 2 FHD (B)
+http://miotv.cc:8080/SldXNyt6Ny94aUV5aWNjZzVDb0hJNVJmdE8yZ2UyWXQ1LzlheHVYb1N5Zz0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", TELEDEPORTE FHD (B)
+http://miotv.cc:8080/MjRxR0cybDIrZnpwMlptTXRLQjVjSmRsNHVyNVFYOEg2NnBUT3Z4QWZqdz0
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.eJt2eoQP4HL3aq-mTUxgdgHaEK?pid=Api&P=0&h=180" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", Dazn Baloncesto
+http://miotv.cc:8080/bXlRcWw2RXNlR0ZET0xSOUlzUmQ2cXBvSDRQelArVnN4WlIxNVFydXJDQT0
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.eJt2eoQP4HL3aq-mTUxgdgHaEK?pid=Api&P=0&h=180" group-title="⚽ | DEPORTES ESPAÑA 🇪🇸", Dazn  Baloncesto 2
+http://miotv.cc:8080/K08xaE9xUXNabFVreHRaZGRlRHl3Z254cjZybUlmN1FqYy9vZFJyaFN0dz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="⚽ DEPORTES 4K", ⚽ E$PN 2 4K
+http://miotv.cc:8080/cmNUWWs2Z0ZkdkJXOTF6OGdNUnU4NlFtY1pPUUUxTEswQVVzbUQ2OGFkYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="⚽ DEPORTES 4K", ⚽ GOL PERU 4K
+http://miotv.cc:8080/MFpkajduUGVEZ1I4M2kzMVp1S1Nqb0dSV0ZqYjcxOVdkKzJnUVlZUzZNcz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="⚽ DEPORTES 4K", ⚽ T & C SPORTS 4K
+http://miotv.cc:8080/NEhtQm5aTVZjblN0R1A1YUlNSTJvV0E0UUo4WGgyQUY4anNLbm5rd0xQST0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="⚽ DEPORTES 4K", ⚽ FUTV  4K
+http://miotv.cc:8080/SWJJcG1SWmY5WDFIeENnTXUzRUEvK0p5aTdud0oyRUlRdXlwcEg4S3dVWT0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", ✦●✦ ARGENTINA DSPORTS ✦●✦
+http://miotv.cc:8080/M3k3VGFHSGROT2JiN1V2c0ZrYTdqTko2SnprUmhRcWN1dm9GZVJjRGNrbz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports | AR ❆
+http://miotv.cc:8080/ZVFKZjRTUW5JN0RWTVA2VnhUTGZjL0laNG56VnVrWW5FcG1PaWNxbVJncz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2 | AR ❆
+http://miotv.cc:8080/a3BtNkhZL0VhS0t0cmc3TjJGenRmTVJFVDBzNzdxZkZRSFBadUNFWGJCOD0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports + | AR ❆
+http://miotv.cc:8080/UHh3dytjT2UyZUEybUdCK0NNTGNBREFnbEZuT21vMGhyM0ZTSGhFZkJ6dz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports | CO ❆
+http://miotv.cc:8080/ajVGV2NaY0dUekxLY1JST3FWRE5ick82clVoWTZIbE55Sk1UWHFiaFNPVT0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports + 2 CO ❆
+http://miotv.cc:8080/U0tkWm05eW11YmtOOWNveFUzMjJsemo3WkUzWGI1QlZ2MXNpNngrT29ZWT0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", ✦●✦ CHILE DSPORTS ✦●✦
+http://miotv.cc:8080/bW1sblBOeEI1NlpDeS9sd2NDQksrSVJvWkwyTy94VHNLbVg5RnhVVVNaND0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 1 | CL ❆
+http://miotv.cc:8080/SDlsUVFCNHRFY2F5K3FXcmRqMktONUwxcUhtdUI2bHJBNnJNeE1XOXNZdz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2 | CL ❆
+http://miotv.cc:8080/L2E0akNtaWVacktrNFVvUHcrTlpzZW9NY1BhQk1EbTBrNTVydkgvejI2RT0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports + | CL ❆
+http://miotv.cc:8080/aG5PUTc0UTBjOGtqcXNHVFlIdUt1NFhPMERUUDYzTXNGNDNMVUlJRTFOdz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", ✦●✦ ECUADOR DSPORTS ✦●✦
+http://miotv.cc:8080/WG1TODJ3T0x6QUZJa0ova3lNdkhwbGdJT3l6NXdTTDBQVUx5SnNRdUI0dz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 1 | EC ❆
+http://miotv.cc:8080/RFZqZlU4d01UNWZYOWFuRHZXNlQxR3FkYVBRdSt0b2FDRU5HcHYwbDI1Yz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2 | EC ❆
+http://miotv.cc:8080/NlRXaG1Odkh6Tk5GZElZd1lJNVg0ZE1KVVc5UVZFcFZETXRrOU1DbkFUZz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports + | EC ❆
+http://miotv.cc:8080/K3IvRDFISUthMDFlT2hsZjAyRzY1bDBjZlNPaVhYSGZnYmNqV3J2STdPcz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports  1 | PE ❆
+http://miotv.cc:8080/bUZrN2pCRld5VWFicGw4S1ZTY3RhdHl2ZlFWYW42U0xQR3lLODcvNld5MD0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2 | PE ❆
+http://miotv.cc:8080/Q2g3eHd4aXdQVjFpYjB2SzBCUUNidTVRRVpkWjVOMUJ6ZFAvam91MTlLaz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 1 ❆
+http://miotv.cc:8080/T2dxWUZWbHhCUjVEOW5MVGg5UzFEVVk3T1lOdmpOS1Y5UThyVTZaa0lEST0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2
+http://miotv.cc:8080/SHJaN1RxeTFkaSs2TFNsdlZHR3lhejFxaCtHVVNGQjViUGdHUkRUcTRPST0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports + ❆
+http://miotv.cc:8080/VUJwWmQ1ZEgxaGdvTDhuM0s3Rm5XUHF6Zlh5aWFsYStTR2dpT1FsaFpjbz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSPORTS  Uruguay
+http://miotv.cc:8080/LzNkS3M0c0lQbG04RmI1cThpdFdDY1JURU1ScmpEajVQVTRjc0Rwb3U5bz0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS", DSports 2 | AR ❆
+http://miotv.cc:8080/a3cvU2dVQmNVdzVDUnZtdkx4RjZSSDVkRHNtSjdSaXQzUklCdThDeDhPbz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN HD
+http://miotv.cc:8080/dUhLVVJkdWluRlRCRmZtZzFjMHY4VFczTkJVRHNyWmV4MVg5b3dTRG9CWT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN SD
+http://miotv.cc:8080/UlQ5NFUxMmJiUTFhQU1YblNta3lQZVpCNkJkT1N5L1VrUU5zK2o1ZVgxbz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 2 HD
+http://miotv.cc:8080/R2Z4WDNqaDhwMVJvUmxySEhSUkU2ekR0UE5FUDdWc1RUVVZqUFhXbzQ1WT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 2 SD
+http://miotv.cc:8080/cFc3eUVsdUwzcWdRanluVExHSzZ3Wm1NMEhCak8vOGFXbnVpYnFWQVQ3dz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 3 HD
+http://miotv.cc:8080/UEJkbytxSkJ1cGJqWmtsR1NLc1l3TDh4WkMwMERBUFIvUkZsYkdqV1J0bz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 3 SD
+http://miotv.cc:8080/bjNQOWNVZm5WUmhpVmNqalJtM2w5aElaRURSWHNKcWJhV21HYUZNZkY4VT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 4 HD
+http://miotv.cc:8080/N09UVlRQUXF3QlB2MTdldzVhWkJnNkpBRm1nTzVuUFRFNWJGL09EVFp5WT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 4 SD
+http://miotv.cc:8080/M1gzSU9zaXRwUTRsTnFtK3pLQnd5RXdDZ1NOZXZMV05udHdKaGJ4a0pUST0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 5 HD
+http://miotv.cc:8080/OXJ5Y2IrMXpkeDhpSlJZczFvREJPQXdKaUZycFExL1F3b0E4MUhYQVZnOD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 5 SD
+http://miotv.cc:8080/TFpReWtwM3RTbFJhTGM2MzU5M0tXT0xrUEI4bzdjQ21Gd21kbXZzYUpNVT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 6 HD
+http://miotv.cc:8080/RGd6MklTNUw3bmxYVjZzQnliT0QvSytUOCtYTmUySFF4blh5RWhOYzNPUT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 6 SD
+http://miotv.cc:8080/Nk9lcG4vMWZzM3pNSFJXeTBzb3A2TnErYWNDMnh1SFlzd1pROEhybndXaz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 7 HD
+http://miotv.cc:8080/eFdDZmRRSlM5eFpUTmROYnIvRlorQitqL1Y2QlBSQ3VRNVZHWU1sSE41Zz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 7 SD
+http://miotv.cc:8080/dDdWRnZjNDExZ2FpYmhFbndyVGdPcUhFVkhic05IeEJPdlNOU1FCMnZ6ND0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", MX: ESPN HD
+http://miotv.cc:8080/VnQ5MUpQRFNLZGJFWENVUHdUV00yT25oZW4rM3dENVBvMUNGcDQzYUMyND0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN MEXICO SD
+http://miotv.cc:8080/MmVieGdoQUduc3Z2SUpIRUNUUEhWVlp0VFMxVFRIWGlFVzNjL1lMMlV1UT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", MX: ESPN 2
+http://miotv.cc:8080/M2dIL0pLNjE3VjUwdjN0V25jVUh2SkpGT25QY0EvWE11dTNlSXBrc29lST0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN 2 | MX ❆
+http://miotv.cc:8080/Qzd5a1grU3VXdkMzL29wYVFybVZLS1R5Z1J0MHJBMHREcG9ZVGhVUC81Yz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN Mexico 3 HD
+http://miotv.cc:8080/OW9IS2p2RlhkUzMyRWRoVE8vbnRtVUFnTlhtenJtd1JUMGI3Z2k1WDBzbz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN  3 SD
+http://miotv.cc:8080/Z1VRai94VmRhT1M1VkRNUWV2c3l3R2hpcHIxb0hWUFBDVEc0clBYUFFRZz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN Brasil
+http://miotv.cc:8080/QTB2TTFNZ1hMVnp1Ny96NGdaSkVmMnZpQkhhUllyQTJvME1NSVZFVU8wUT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", MX :ESPN 3
+http://miotv.cc:8080/K0h5VzcwemhsckIzalZ4OTJvUjB5QXBBS08xdmxpeWx5SGZleFdjNzNvND0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN DEPORTES 1 - USA
+http://miotv.cc:8080/SVBldjRnQzhjNTdRdzNHZnhQVGFtcVBNSStBcWhkQkxiajVqeHJoZkFJRT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN DEPORTES 2-USA
+http://miotv.cc:8080/ZXhSSUk1djRZVUY5M01JRTIwNmMxZDJCZHFmdHBUVDI4Y0E2dHdOUWJXYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM", ESPN extra
+http://miotv.cc:8080/bS90ZU9aaWkyVDFJU1BORFVQQ0NmYzRwWFZJS3Z1eER3UjZwcXd1eDRaST0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports | AR ❆
+http://miotv.cc:8080/RXMzeTJJaE11V3c2Y2x3WTJJaWVBRDJMY3oxdHFYNlVrd0kyVzZZci83OD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 2 | AR ❆
+http://miotv.cc:8080/MVRBQlRVekZtQVJqaER4c2srb09vM1YxVERPUldLMWo2YitlZExKZnBvND0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 3 | AR ❆
+http://miotv.cc:8080/c3RMQ0kzZFljQW5PRU8xYk1Lc0RpT2VTdXZSZjBYaU5LRWt6bVBXZFZuYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", PL | FOX Premium HD
+http://miotv.cc:8080/UnlFRHNaSGxUNkdCOWZ1bHdodmNNQkE4dm1QZ2VGSVM0cnhHQm9QZjIrMD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 1 | MX ❆
+http://miotv.cc:8080/RkNyN1VDM1B0KzJwbVdhUzYvQXBQdHlJZk5wajV0OU8xMkt6b2srMmtNdz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 2 | MX ❆
+http://miotv.cc:8080/ZTQ0Y3R5MThFTk5uRkt5RDJMSFpGQ011Q1h4TE5SQ2x0UFlWa2ZsNDRRST0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 2 | CL ❆
+http://miotv.cc:8080/ZmpvYzFNZFBxb2dVL0J6V1p2TFZnOHFoYnk0Yjh0cE8wNForV3pRdVZtcz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 3 | CL ❆
+http://miotv.cc:8080/eEZka05ScTRQTllESVZnT1NyWS93SWlGM3hQS210UXJaalkzTTNTaFErZz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports | CL ❆
+http://miotv.cc:8080/bFA5YXlnTEw2TzAzdzNndXJxbkZpUVJyYi9yYVJudmlsRnZidzkwSXlhQT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports 3 | PE ❆
+http://miotv.cc:8080/T2EveHpYY01vMWhMWGpCSkYwVVU3aXBFaVg3WS9neVhhODVxeS9BZ1NhYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", FOX Sports | PREMIUM
+http://miotv.cc:8080/OWFQT3pHME1OM0hhdlJNNURMMGxybWVuNEhFUk81RTJLV0JKSHEra3FoND0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="⚽ | FOX SPORTS", Fox Sports 2 | 2MB LAT ❆
+http://miotv.cc:8080/TExkWGdIR2RYZEdadjhpbFlVZmJHbkVOWnFDbWJQSnl2TnZTaXRaK0g4MD0
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-" group-title="🏁 | FORMULA 1", F1 | RALLY TV
+http://miotv.cc:8080/czNrTGNReVVoZzE3WFRNcFh6ZGpaNFNFM3YvekV0OW1aMDNOWWl5aFp6cz0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", DAZN F1
+http://miotv.cc:8080/TmRrdmxGeGJCd3Frdk5vZzR4VncvNkRvb1RhUnVlMjQ4UnBteUVsaUg3OD0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", DAZN MOVISTAR F1 HD
+http://miotv.cc:8080/MU5WdGQrK2RvVlFlOFVFQ1M0RTFoSmNaYVJGNFBKT3pRRm43WUQ0SmowST0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", S /IKY F1
+http://miotv.cc:8080/OFEwQnJDZTVJaVdKL3NFNEthSXpWU3AvRW5oUC9FL1RHRFAzUUpWZGhoTT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", SS C2 - F1
+http://miotv.cc:8080/OEJRSEE0RGIzNU5Gc3Z6YXNVU2FzNndnVnp2S01obTNHcHVoOW5yUnc1TT0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", ESPN SPORTS - F1
+http://miotv.cc:8080/UEttZ2NrVGY1U1JLM1B0NEx0bzI4VXlSSUZGdnBheHZJVm1oNm9zQzFpST0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="🏁 | FORMULA 1", F1 - SKY  F1
+http://miotv.cc:8080/TnF6b0g2S0lIbWx3dVU4SitCSVBodTJSTnEyWCtZc0Uzd2tRcERzVXc1WT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="⚽ | BEIN SPORT", BEIN SPORTS XTRA Ñ
+http://miotv.cc:8080/ZmhkelBzNnpOTkw5R0E5UzUzbm5USzJrSzVTLy9Wd2pvY2RsbnpGR1VqRT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="⚽ | BEIN SPORT", BEIN SPORTS  HD
+http://miotv.cc:8080/VXNXUmxXNkUxenZFU3ZuaWFRUytXeHRCVHlWR3NlRVdMYkV2ZThhY1FCTT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="⚽ | BEIN SPORT", BEIN SPORTS XTRA Ñ HD
+http://miotv.cc:8080/YUg4cFcxVnMrUXJNUllGT0ZId01Jc0V6bHpTU1A5alpHa0VMcG83SjJ5MD0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="⚽ | BEIN SPORT", BEIN SPORTS Ñ
+http://miotv.cc:8080/SmRrRzBOTTVPdW9QMmFwOUI1ZGVHdit6SHhoNlF4SXpZTCtqRTA5NGZHYz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="⚽ | DAZN", DAZN LA LIGA
+http://miotv.cc:8080/NlRDcFp1YnlQL2ZhcUNicmprTjlFaDFFV1FDNG1FZUdBMytqbXZpcG1rWT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="⚽ | DAZN", DAZN 2 FHD
+http://miotv.cc:8080/eGJHRGY1S3NKQ01aWlladTlBYmJxWHJnQzBwaXk3MXYyMG5LQUxEZmtzcz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="⚽ | DAZN", DAZN 3
+http://miotv.cc:8080/a1ZwZ2JzRVdFWjd2U0pBNG55RzQzN0RjU3ptUEpnSFVVQTdwUEtRUzJwRT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="⚽ | DAZN", DAZN F1 FHD (B)
+http://miotv.cc:8080/TnF5MENtRGFmT0dJSmdqaS9SYXMyYS9kM05FM3FDYm9vdEluUUFpaEVXQT0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="⚽ | DAZN", ES: DAZN 4
+http://miotv.cc:8080/WXo0d3N6TUNOdDhSN3VHbnFxOFQyTXlXWWpDZ05iZnpub2xERkRZK3R6TT0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="BRASIL | ESPORTES", SP: BR: ESPN 2 SD
+http://miotv.cc:8080/ZkhqblgvbkM5RVp6SFNDeE9UTEQ1OERWTnNwaGhRV3FsQTkrVGR1VlIvTT0
+
+#EXTINF:-1 tvg-logo="http://icon.guard447.cyou/logos/brasil/sport_tv1.png" group-title="BRASIL | ESPORTES", SP: BR: Sport TV 1 SD
+http://miotv.cc:8080/amNtT3BWT2RCbG9PK2xkRUNKMHQrTFh3SU9tejBRUTRWTS93Q3hkV2dtRT0
+
+#EXTINF:-1 tvg-logo="http://icon.guard447.cyou/logos/brasil/sport_tv1.png" group-title="BRASIL | ESPORTES", SP: BR: Sport TV 1 FHD
+http://miotv.cc:8080/WXdVcFNHMHVKY0dKZDkraTFOVTNoRm9ONlN0SmNxdW52VlhCNHhoQ1prUT0
+

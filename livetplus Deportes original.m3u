@@ -1,0 +1,173 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK", MEX | ESPN
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588125.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK", ARG | ESPN 4
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588128.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK", ARG | ESPN
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588132.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK", MEX | ESPN 3 HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588135.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK", ARG | ESPN 2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588138.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK", COL | ESPN
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588140.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK", CHI | ESPN 6
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588150.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK", CHI | ESPN PREMIUM
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588152.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK", PER | ESPN 2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/610861.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK", PER | ESPN 4
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/610863.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK", PER | ESPN 6
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/610865.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK", FOX SPORTS
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588154.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK", FOX SPORTS 3
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588156.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK", ARG | FOX SPORTS 3
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588158.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK", ARG | FOX SPORTS 2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588160.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK", CL | FOX SPORTS 2 HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588162.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK", ARG | FOX SPORTS 3
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588164.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK", MX | FOX SPORTS 3
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588166.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK", ARG | FOX SPORTS  2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588168.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="FOX SPORTS PACK", MX | FOX SPORTS PREMIUM
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/588170.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO", F CO | WIN SPORTS + HD OP 1
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/516929.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO", F CO | WIN SPORTS +
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/516931.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO", F CO | WIN SPORTS OP 1
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/485515.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", CR | TELETICA
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656075.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", CO | CARACOL
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656084.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", MX | TV AZTECA
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656909.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", PE | AMÉRICA TV
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656918.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", BO | UNITEL
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656924.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="MUNDIAL DE FÚTBOL 2026", AR | TYC SPORTS
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/656930.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="MUNDIAL DE FÚTBOL 2026", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op1
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/658393.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="MUNDIAL DE FÚTBOL 2026", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op3
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/658395.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bir6kpY.png" group-title="MUNDIAL DE FÚTBOL 2026", 20 Jun 14:00  Alemania vs Costa de Marfil (Group E)  op2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/658397.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA", DEP ES | D4ZN LA LIG4 1 FHD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/635280.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 (M+ LA LIG4 2)
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/440267.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG91hY8/liga5.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 5 SD VIP
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/209716.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES ESPAÑA", DEP ES | GOL TV HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/203808.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKKGbn8/liga3.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 3 VIP
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/209710.ts
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png" group-title="DEPORTES ESPAÑA", DEP ES | GOL TV HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/119381.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR LIGA DE CAMPEONES 2
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/117139.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 HD VIP ⭐️
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/54155.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="DEPORTES ESPAÑA", DEP ES | CAZA Y PESCA
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/47669.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbQ1s2C/campeones6.png" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR LIGA DE CAMPEONES 6
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/222437.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR LIGA DE CAMPEONES ⭐️
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/54157.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/2/26/20111025105920%21Teledeporte_logo.png" group-title="DEPORTES ESPAÑA", DEP ES | TELEDEPORTE
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/203811.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="DEPORTES ESPAÑA", DEP ES | VAMOS HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/47430.ts
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2020/02/Mundotoro-Principal-750x536.png" group-title="DEPORTES ESPAÑA", DEP ES | ONE TORO
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/517236.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 (SKY SPORTS)
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/440265.ts
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR DEPORTES
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/203769.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="DEPORTES ESPAÑA", DEP ES | EUROSPORT 2 HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/47437.ts
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR TOROS
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/33528.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="DEPORTES ESPAÑA", DEP ES | EUROSPORT 1 HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/47435.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA", DEP ES | D4ZN LA LIG4 1 HD
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/440260.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES ESPAÑA", DEP ES | MOVISTAR LIGA DE CAMPEONES 4
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/186860.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsPJG1r/liga1.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 1 VIP
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/209705.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znSxvvX/liga2.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 2 VIP
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/209707.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA", DEP ES | LA LIG4 (M+ LA LIG4)
+http://livetv-plus.com:8880/live/MarioAlvarado12/JSYTJ/577957.ts
+
